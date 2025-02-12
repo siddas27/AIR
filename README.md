@@ -1,9 +1,9 @@
 # Artificial Intelligence Reference
 
-[![Documentation Status]()]()
+[![Documentation Status](https://readthedocs.org/projects/air-ai-reference/badge/?version=latest)](https://air-ai-reference.readthedocs.io/en/latest/?badge=latest)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
-Read the web-friendly version [here]().
+Read the web-friendly version [here](https://air-ai-reference.readthedocs.io/en/latest/).
 
 ## Purpose of this Reference
 
