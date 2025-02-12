@@ -40,14 +40,8 @@ The MyST markdown language and MyST parser are both supported by the open commun
 
 ```{toctree}
 :hidden:
-:caption: ✏️ perception.md
+:caption: ✏️ 
 
-
-perception.md
-content/control.md
-planning.md
-stateest.md
-sensorfusion.md
 ```
 
 [github-link]: https://github.com/AIR
